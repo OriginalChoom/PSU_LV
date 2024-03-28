@@ -1,0 +1,5 @@
+sat = float(input())
+placa = float(input())
+print("Radni sati:", sat)
+print("eura/h", placa)
+print("Ukupno",sat * placa)
